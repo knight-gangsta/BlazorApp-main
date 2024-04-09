@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BlazorApp1/FileContentIndex/05a2046d-1ef2-4fd1-9215-3ba41d1fa546.vsidx
+*.vsidx
